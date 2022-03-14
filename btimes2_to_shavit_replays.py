@@ -20,7 +20,7 @@ connection = None
 id_steam3 = dict()
 errors = []
 
-# https://gist.github.com/bcahue/4eae86ae1d10364bb66d
+# https://gist.github.com/PMArkive/b582fd38a8b26baadbc279e01b802233
 def convert(steamid):
 	steamid_split = steamid.split(':')
 	usteamid = []
